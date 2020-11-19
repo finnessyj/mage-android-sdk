@@ -116,6 +116,6 @@ dependencies {
     api 'com.google.code.gson:gson:2.8.2'
     api 'com.google.guava:guava:18.0'
     api 'org.apache.commons:commons-lang3:3.3.2'
-    api 'com.fasterxml.jackson.core:jackson-databind:2.9.5'
+    api 'com.fasterxml.jackson.core:jackson-databind:2.9.10.2'
     api files('libs/sanselanandroid.jar')
 }
